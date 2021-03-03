@@ -4,15 +4,15 @@ If you want to run this project locally follow [this steps](https://guides.rubyo
 
 The UI of the project:
 
-- Home
+### Home
 
-<img src="/readme_images/editentry.png" width="40%">
+<img src="/readme_images/home.png" width="40%">
 
-- New Entry
+### New Entry
 
 <img src="/readme_images/newentry.png" width="40%">
 
-- Edit Entry
+### Edit Entry
 
 <img src="/readme_images/editentry.png" width="40%">
 
