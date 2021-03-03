@@ -5,9 +5,14 @@ If you want to run this project locally follow [this steps](https://guides.rubyo
 The UI of the project:
 
 - Home
+
 <img src="/readme_images/editentry.png" width="40%">
+
 - New Entry
+
 <img src="/readme_images/newentry.png" width="40%">
+
 - Edit Entry
+
 <img src="/readme_images/editentry.png" width="40%">
 
