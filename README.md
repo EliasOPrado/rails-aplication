@@ -1,24 +1,13 @@
-# README
+## Ruby On Rails FoodLog application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+If you want to run this project locally follow [this steps](https://guides.rubyonrails.org/getting_started.html).
 
-Things you may want to cover:
+The UI of the project:
 
-* Ruby version
+- Home
+<img src="/readme_images/editentry.png" width="40%">
+- New Entry
+<img src="/readme_images/newentry.png" width="40%">
+- Edit Entry
+<img src="/readme_images/editentry.png" width="40%">
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
